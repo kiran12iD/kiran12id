@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kiran Parajuli
+- 👀 I’m interested in Quality Assurance Trends and Technologies
+- 🌱 I’m currently learning better testing strategies for microservices
+- 💞️ I’m looking to collaborate on 12iD
+- 📫 How to reach me: [website](https://kiranparajuli.com.np "website")
